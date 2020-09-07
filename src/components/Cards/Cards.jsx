@@ -34,5 +34,6 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
                 />
             </Grid>
         </div>
-    )
-}
+    );
+};
+export default Info;
