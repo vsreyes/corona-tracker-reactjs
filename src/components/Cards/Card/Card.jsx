@@ -23,3 +23,5 @@ const CardComponent = ({ className, cardTitle, value, lastUpdate, cardSubtitle }
         </CardContent>
     </Grid>
 );
+
+export default CardComponent;
